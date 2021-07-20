@@ -20,9 +20,7 @@
 
 <br />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evchimanski&theme=tokyonight)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=evchimanski&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evchimanski&theme=vue) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=evchimanski&show_icons=true&theme=vue)
 
 
 
