@@ -1,8 +1,9 @@
 ### Hi 👋
 # Enthusiast and passionate scientist with experience in modeling complex systems. I enjoy to live in constant learning mode.
 
+https://sites.google.com/view/evchimanski/
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on nuclear reaction models and nuclear structure for deformed targets.
 - 🌱 I’m currently learning about deep leaning, data mining and modern machine learning tools
 - 👯 I’m looking to collaborate on theoretical physics projects as well as machine learning applications for both academia and private sectors. 
 - 🤔 I’m looking for help with ...
