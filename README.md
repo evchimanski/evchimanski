@@ -3,7 +3,7 @@
 
 https://sites.google.com/view/evchimanski/
 
-- 🔭 I’m currently working on nuclear reaction models and nuclear structure for deformed targets.
+- 🔭 I’m currently working on nuclear reaction models and nuclear structure for deformed targets at the Lawrence Livermore National Laboratory.
 - 🌱 I’m currently learning about deep leaning, data mining and modern machine learning tools
 - 👯 I’m looking to collaborate on theoretical physics projects as well as machine learning applications for both academia and private sectors. 
 
