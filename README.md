@@ -20,13 +20,9 @@
 
 <br />
 
-<p align="center"> 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=tokyonight)
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evchimanski&theme=tokyonight)
 
-<p align="center"> 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=evchimanski&show_icons=true&theme=tokyonight)
-</p>
 
 
 
