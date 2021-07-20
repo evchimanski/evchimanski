@@ -24,12 +24,10 @@
 
 <br />
 
-<p align="center">
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=evchimanki&show_icons=true&theme=tokyonight)
 
  
- 
-</p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=evchimanski&show_icons=true&theme=tokyonight)
+
 
 
 
