@@ -1,5 +1,5 @@
 ### Hi 👋
-# Enthusiast and passionate scientist with experience in modeling complex systems. I enjoy to live in constant learning mode.
+# Enthusiast and passionate scientist with experience in modeling complex systems.
 
 https://sites.google.com/view/evchimanski/
 
