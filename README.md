@@ -1,9 +1,7 @@
-
-
-- ⚡ “Just a minute,” said Klapaucius, annoyed. He was trying to think of a request as difficult as possible, aware that any argument on the quality of the verse the machine might be able to produce would be hard if not impossible to settle either way. Suddenly he brightened and said:
+ ⚡ “Just a minute,” said Klapaucius, annoyed. He was trying to think of a request as difficult as possible, aware that any argument on the quality of the verse the machine might be able to produce would be hard if not impossible to settle either way. Suddenly he brightened and said:
 “Have it compose a poem — a poem about a haircut! [...]"
 
--->
+
 
 ## ✉️ Find me on:
 
